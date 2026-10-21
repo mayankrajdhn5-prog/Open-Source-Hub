@@ -1,0 +1,1 @@
+# Performance Module Benchmark 4\ndef run_benchmark():\n    return 4 * 100\n
